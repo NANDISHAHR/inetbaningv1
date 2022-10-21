@@ -1,0 +1,225 @@
+2022-10-19 12:29:26,500  INFO [main] ebanking:16 - URL is opened
+ 2022-10-19 12:29:26,527  INFO [main] ebanking:20 - Enter UserName
+ 2022-10-19 12:29:26,661  INFO [main] ebanking:22 - Enter password
+ 2022-10-19 12:29:29,659  INFO [main] ebanking:29 - Login test passed
+ 2022-10-19 13:23:01,519  INFO [main] ebanking:16 - URL is opened
+ 2022-10-19 13:23:01,576  INFO [main] ebanking:20 - Enter UserName
+ 2022-10-19 13:23:01,917  INFO [main] ebanking:22 - Enter password
+ 2022-10-19 13:23:07,117  INFO [main] ebanking:29 - Login test passed
+ 2022-10-19 18:23:46,169  INFO [main] ebanking:48 - URL is opened
+ 2022-10-19 18:23:46,555  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-19 18:23:46,803  INFO [main] ebanking:21 - Enter password
+ 2022-10-19 18:23:51,035  INFO [main] ebanking:28 - Login test passed
+ 2022-10-19 18:35:34,796  INFO [main] ebanking:48 - URL is opened
+ 2022-10-19 18:35:34,918  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-19 18:35:35,222  INFO [main] ebanking:21 - Enter password
+ 2022-10-19 18:35:40,051  INFO [main] ebanking:28 - Login test passed
+ 2022-10-19 20:19:18,377  INFO [main] ebanking:48 - URL is opened
+ 2022-10-19 20:19:18,459  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-19 20:19:19,737  INFO [main] ebanking:21 - Enter password
+ 2022-10-19 20:19:22,245  INFO [main] ebanking:28 - Login test passed
+ 2022-10-19 20:21:03,759  INFO [main] ebanking:48 - URL is opened
+ 2022-10-19 20:21:03,816  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-19 20:21:03,972  INFO [main] ebanking:21 - Enter password
+ 2022-10-19 20:21:08,342  INFO [main] ebanking:28 - Login test passed
+ 2022-10-19 22:13:45,049  INFO [main] ebanking:48 - URL is opened
+ 2022-10-19 22:13:45,126  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-19 22:13:45,317  INFO [main] ebanking:21 - Enter password
+ 2022-10-19 22:13:50,906  INFO [main] ebanking:28 - Login test passed
+ 2022-10-20 11:00:26,523  INFO [main] ebanking:56 - URL is opened
+ 2022-10-20 11:00:26,800  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-20 11:00:28,345  INFO [main] ebanking:21 - Enter password
+ 2022-10-20 11:00:31,363  INFO [main] ebanking:28 - Login test passed
+ 2022-10-20 11:01:11,837  INFO [main] ebanking:56 - URL is opened
+ 2022-10-20 11:01:11,938  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-20 11:01:12,158  INFO [main] ebanking:21 - Enter password
+ 2022-10-20 11:01:16,525 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:16,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+ 2022-10-20 11:01:16,546 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+ 2022-10-20 11:01:16,553 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+ 2022-10-20 11:01:16,954 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:16,957 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+ 2022-10-20 11:01:16,960 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+ 2022-10-20 11:01:16,961 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+ 2022-10-20 11:01:16,969 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:16,970 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+ 2022-10-20 11:01:16,972 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+ 2022-10-20 11:01:16,973 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+ 2022-10-20 11:01:16,989 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:16,991 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+ 2022-10-20 11:01:16,994 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+ 2022-10-20 11:01:16,994 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+ 2022-10-20 11:01:17,009 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:17,013 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+ 2022-10-20 11:01:17,014 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+ 2022-10-20 11:01:17,015 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+ 2022-10-20 11:01:17,034 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:17,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+ 2022-10-20 11:01:17,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+ 2022-10-20 11:01:17,039 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+ 2022-10-20 11:01:17,071 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:17,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+ 2022-10-20 11:01:17,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+ 2022-10-20 11:01:17,073 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+ 2022-10-20 11:01:17,079 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:17,080 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+ 2022-10-20 11:01:17,084 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+ 2022-10-20 11:01:17,085 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+ 2022-10-20 11:01:17,097 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:17,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+ 2022-10-20 11:01:17,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+ 2022-10-20 11:01:17,107 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+ 2022-10-20 11:01:17,113 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:17,114 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+ 2022-10-20 11:01:17,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+ 2022-10-20 11:01:17,118 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+ 2022-10-20 11:01:17,210 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 11:01:17,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+ 2022-10-20 11:01:17,216 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+ 2022-10-20 11:01:17,217 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+ 2022-10-20 12:30:26,146  INFO [main] ebanking:56 - URL is opened
+ 2022-10-20 12:30:31,202  INFO [main] ebanking:18 - username is provided
+ 2022-10-20 12:30:31,333  INFO [main] ebanking:20 - password is provided
+ 2022-10-20 12:30:35,863  INFO [main] ebanking:31 - login passed
+ 2022-10-20 12:30:39,563  INFO [main] ebanking:18 - username is provided
+ 2022-10-20 12:30:39,868  INFO [main] ebanking:20 - password is provided
+ 2022-10-20 12:30:42,075  INFO [main] ebanking:31 - login passed
+ 2022-10-20 12:30:45,696  INFO [main] ebanking:18 - username is provided
+ 2022-10-20 12:30:45,906  INFO [main] ebanking:20 - password is provided
+ 2022-10-20 12:30:49,257  INFO [main] ebanking:31 - login passed
+ 2022-10-20 12:30:55,489  INFO [main] ebanking:18 - username is provided
+ 2022-10-20 12:30:55,625  INFO [main] ebanking:20 - password is provided
+ 2022-10-20 12:30:58,264  INFO [main] ebanking:31 - login passed
+ 2022-10-20 12:31:02,696  INFO [main] ebanking:18 - username is provided
+ 2022-10-20 12:31:02,923  INFO [main] ebanking:20 - password is provided
+ 2022-10-20 12:31:05,773  INFO [main] ebanking:31 - login passed
+ 2022-10-20 12:31:08,733  INFO [main] ebanking:18 - username is provided
+ 2022-10-20 12:31:08,970  INFO [main] ebanking:20 - password is provided
+ 2022-10-20 12:31:11,695 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:11,700 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+ 2022-10-20 12:31:11,715 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+ 2022-10-20 12:31:11,717 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+ 2022-10-20 12:31:11,995 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:11,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+ 2022-10-20 12:31:11,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+ 2022-10-20 12:31:11,999 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+ 2022-10-20 12:31:12,005 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:12,006 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+ 2022-10-20 12:31:12,009 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+ 2022-10-20 12:31:12,010 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+ 2022-10-20 12:31:12,021 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:12,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+ 2022-10-20 12:31:12,023 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+ 2022-10-20 12:31:12,025 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+ 2022-10-20 12:31:12,038 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:12,043 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+ 2022-10-20 12:31:12,046 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+ 2022-10-20 12:31:12,047 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+ 2022-10-20 12:31:12,071 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:12,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+ 2022-10-20 12:31:12,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+ 2022-10-20 12:31:12,077 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+ 2022-10-20 12:31:12,097 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:12,098 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+ 2022-10-20 12:31:12,100 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+ 2022-10-20 12:31:12,100 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+ 2022-10-20 12:31:12,112 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:12,113 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+ 2022-10-20 12:31:12,115 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+ 2022-10-20 12:31:12,115 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+ 2022-10-20 12:31:12,122 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:12,123 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+ 2022-10-20 12:31:12,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+ 2022-10-20 12:31:12,128 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+ 2022-10-20 12:31:12,134 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:12,135 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+ 2022-10-20 12:31:12,136 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+ 2022-10-20 12:31:12,137 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+ 2022-10-20 12:31:12,153 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 12:31:12,156 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+ 2022-10-20 12:31:12,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+ 2022-10-20 12:31:12,161 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+ 2022-10-20 13:57:52,274  INFO [main] ebanking:56 - URL is opened
+ 2022-10-20 13:57:52,656  INFO [main] ebanking:17 - username provided
+ 2022-10-20 13:57:53,501  INFO [main] ebanking:19 - password is provided
+ 2022-10-20 13:57:59,602  INFO [main] ebanking:26 - Providing customer details
+ 2022-10-20 13:58:15,883  INFO [main] ebanking:49 - Validation started..........
+ 2022-10-20 13:58:17,396 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,400 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+ 2022-10-20 13:58:17,405 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+ 2022-10-20 13:58:17,405 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+ 2022-10-20 13:58:17,646 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+ 2022-10-20 13:58:17,650 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+ 2022-10-20 13:58:17,651 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+ 2022-10-20 13:58:17,657 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,660 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+ 2022-10-20 13:58:17,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+ 2022-10-20 13:58:17,664 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+ 2022-10-20 13:58:17,676 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,677 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+ 2022-10-20 13:58:17,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+ 2022-10-20 13:58:17,678 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+ 2022-10-20 13:58:17,691 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,693 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+ 2022-10-20 13:58:17,695 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+ 2022-10-20 13:58:17,696 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+ 2022-10-20 13:58:17,723 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,725 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+ 2022-10-20 13:58:17,727 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+ 2022-10-20 13:58:17,728 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+ 2022-10-20 13:58:17,751 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,752 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+ 2022-10-20 13:58:17,754 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+ 2022-10-20 13:58:17,754 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+ 2022-10-20 13:58:17,761 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,764 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+ 2022-10-20 13:58:17,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+ 2022-10-20 13:58:17,767 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+ 2022-10-20 13:58:17,776 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,780 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+ 2022-10-20 13:58:17,782 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+ 2022-10-20 13:58:17,788 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+ 2022-10-20 13:58:17,794 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,795 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+ 2022-10-20 13:58:17,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+ 2022-10-20 13:58:17,799 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+ 2022-10-20 13:58:17,813 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+ 2022-10-20 13:58:17,815 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+ 2022-10-20 13:58:17,817 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+ 2022-10-20 13:58:17,817 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Nandish%20H%20R/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+ 2022-10-20 14:09:31,980  INFO [main] ebanking:56 - URL is opened
+ 2022-10-20 14:09:32,225  INFO [main] ebanking:17 - username provided
+ 2022-10-20 14:09:32,334  INFO [main] ebanking:19 - password is provided
+ 2022-10-20 14:09:39,216  INFO [main] ebanking:26 - Providing customer details
+ 2022-10-20 14:09:52,891  INFO [main] ebanking:49 - Validation started..........
+ 2022-10-20 14:09:52,932  INFO [main] ebanking:54 - test case is passed
+ 2022-10-20 16:37:00,867  INFO [main] ebanking:56 - URL is opened
+ 2022-10-20 16:37:01,124  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-20 16:37:01,432  INFO [main] ebanking:21 - Enter password
+ 2022-10-20 16:37:03,354  INFO [main] ebanking:28 - Login test passed
+ 2022-10-20 17:44:24,471  INFO [main] ebanking:56 - URL is opened
+ 2022-10-20 17:44:24,537  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-20 17:44:24,686  INFO [main] ebanking:21 - Enter password
+ 2022-10-20 17:44:29,500  INFO [main] ebanking:28 - Login test passed
+ 2022-10-21 13:35:27,882  INFO [main] ebanking:56 - URL is opened
+ 2022-10-21 13:35:28,370  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-21 13:35:31,885  INFO [main] ebanking:21 - Enter password
+ 2022-10-21 13:35:35,408  INFO [main] ebanking:28 - Login test passed
+ 2022-10-21 15:05:05,719  INFO [main] ebanking:56 - URL is opened
+ 2022-10-21 15:05:06,021  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-21 15:05:06,837  INFO [main] ebanking:21 - Enter password
+ 2022-10-21 15:05:09,060  INFO [main] ebanking:28 - Login test passed
+ 2022-10-21 15:24:53,269  INFO [main] ebanking:56 - URL is opened
+ 2022-10-21 15:24:53,354  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-21 15:24:53,473  INFO [main] ebanking:21 - Enter password
+ 2022-10-21 15:24:55,557  INFO [main] ebanking:28 - Login test passed
+ 2022-10-21 20:06:26,212  INFO [main] ebanking:56 - URL is opened
+ 2022-10-21 20:06:26,396  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-21 20:06:28,299  INFO [main] ebanking:21 - Enter password
+ 2022-10-21 20:06:31,737  INFO [main] ebanking:28 - Login test passed
+ 2022-10-21 20:26:35,674  INFO [main] ebanking:56 - URL is opened
+ 2022-10-21 20:26:35,772  INFO [main] ebanking:19 - Enter UserName
+ 2022-10-21 20:26:35,877  INFO [main] ebanking:21 - Enter password
+ 2022-10-21 20:26:42,069  INFO [main] ebanking:28 - Login test passed
+ 
